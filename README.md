@@ -1,4 +1,4 @@
-# acao_anlise_unipar
+# acao_analise_unipar
 Análise da Ação UNIP6.SA
 
 A ação UNIP6.SA exibiu um desempenho notável desde 2018, com um retorno simples impressionante de 569,53%. Isso significa que um investimento feito nessa ação no início de 2018 teria se valorizado em mais de cinco vezes até o momento atual. Esse desempenho é excepcional e reflete um período de crescimento substancial para a empresa.
